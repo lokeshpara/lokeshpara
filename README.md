@@ -1,16 +1,15 @@
 <div align="center">
+👋 Hi there, I'm Lokesh Para
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=10034220&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+%7C+Full+Stack+%7C+Distributed+Systems+Engineer" />
+🚀 About Me
 
-# 👋 Hi there, I'm **Lokesh Para**! 
+Java Full Stack & Distributed Systems Engineer with 4+ years of experience building high-performance microservices, event-driven architectures, and cloud-native applications across finance, healthcare, and telecom.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=10034220&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+|+AI+Specialist" alt="Typing SVG" />
+I specialize in architecting backend systems that process $500M+ daily transactions, handle 2M+ real-time messages, and consistently deliver 99.9% uptime with sub-200ms API response times using Java, Spring Boot, React, Kafka, AWS, and Kubernetes.
 
-## 🚀 **About Me**
+🎯 Currently seeking a backend or full-stack engineering role where I can contribute to large-scale distributed systems, real-time data platforms, and high-throughput API architectures.
 
-**Python Backend & Infrastructure Engineer** with **3+ years of experience** delivering secure, high-throughput APIs, ML-integrated data systems, and scalable infrastructure using **FastAPI, Flask, Docker,** and **cloud-native stacks**. 
-
-🎯 **Currently seeking a founding full-stack engineering role** to architect and ship next-gen data infrastructure for AI systems.
-
-🎓 **MS Computer Science** @ Southern Arkansas University **(3.9/4.0 GPA)**
-
+🎓 MS in Computer & Information Science
+Southern Arkansas University
 
 </div>
